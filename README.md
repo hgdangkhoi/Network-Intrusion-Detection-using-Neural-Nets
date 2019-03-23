@@ -1,4 +1,4 @@
-# Predicting Network attacks/intrusion detection using Neural Nets
+# Network intrusion detection using Neural Nets
 
 ## Summary
 
